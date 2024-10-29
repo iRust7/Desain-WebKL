@@ -16,17 +16,16 @@ Proyek ini mencakup pembuatan website dengan berbagai halaman dan desain menggun
 - **Index:** Halaman utama yang menampilkan informasi dasar.
 - **Profil:** Halaman profil yang memuat informasi tentang saya.
 - **Produk:** Halaman yang berisi katalog produk.
-- **Feedback:** Halaman untuk menerima masukan dari pengguna.
+- **Saran:** Halaman untuk menerima masukan dari pengguna.
 
 ## Teknologi yang Digunakan
 
 - HTML
 - CSS
-- JavaScript
 
 ## Preview Website
 
-Website dapat diakses melalui link berikut: [Preview Website](https://desain-web-nh-sherlocksh-v1.vercel.app/)
+Website dapat diakses melalui link berikut: [Preview Website]([https://desain-web-kelvin.vercel.app/))
 
 ## Cara Menjalankan
 
