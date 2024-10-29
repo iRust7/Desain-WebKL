@@ -25,7 +25,7 @@ Proyek ini mencakup pembuatan website dengan berbagai halaman dan desain menggun
 
 ## Preview Website
 
-Website dapat diakses melalui link berikut: [Preview Website]([https://desain-web-kelvin.vercel.app/))
+Website dapat diakses melalui link berikut: [Preview Website](https://desain-web-kelvin.vercel.app/)
 
 ## Cara Menjalankan
 
