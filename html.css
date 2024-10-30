@@ -68,6 +68,10 @@ h1 {
     color: white;
 }
 
+.video{
+    text-align: center;
+}
+
 .produk-item:hover {
     transform: scale(1.05); 
 }
